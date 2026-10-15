@@ -1,0 +1,10 @@
+name: ML-Collection CodeQL config
+
+queries:
+  - uses: security-and-quality
+
+paths-ignore:
+  - venv
+  - .venv
+  - data
+  - images
