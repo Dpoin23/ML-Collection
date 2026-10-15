@@ -1,2 +1,2 @@
 -r requirements.txt
-datasets>=3.0
+datasets>=5.1.0
