@@ -1,4 +1,4 @@
 -r requirements.txt
 -r requirements-examples.txt
-ruff>=0.17.1
+ruff>=0.17.2
 pytest>=9.1.1
